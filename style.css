@@ -68,6 +68,12 @@ a.nav-link{
           box-sizing: border-box;
 }
 
+.more{
+  height: 100vh;
+  width: 100%;
+
+}
+
 .img-size{
   background-color: rgba(250, 250, 250, 0);
   border: none;
@@ -292,6 +298,11 @@ body {
   }
   .download-text {
     font-size: 10px;
+  }
+  .img-head{
+    
+    transform: none;
+    transition: none;
   }
 
 }

@@ -305,6 +305,21 @@ body {
     transition: none;
   }
 
+   .img-head:hover{
+    
+    transform: none;
+    transition: none;
+  }
+
+  .img-size{
+
+  transition: none;
+}
+
+.img-size:hover{
+    transform:none;
+}
+
 }
 
 
